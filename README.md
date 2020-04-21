@@ -1,5 +1,5 @@
 # cj-app
-Flask 1.0.4 - Python 3.5
+Flask 1.0.4 - Python 2.7
 
 IMPORTANT NOTES:
 
