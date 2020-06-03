@@ -1,0 +1,6 @@
+projectKey=run-flask
+serverUrl=http://18.206.131.127:9005
+serverVersion=7.5.0.20543
+dashboardUrl=http://18.206.131.127:9005/dashboard?id=run-flask
+ceTaskId=AXJ6gykvHsfeLeD4SrkQ
+ceTaskUrl=http://18.206.131.127:9005/api/ce/task?id=AXJ6gykvHsfeLeD4SrkQ

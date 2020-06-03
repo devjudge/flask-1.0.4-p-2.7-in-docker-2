@@ -1,0 +1,7 @@
+************* Module restapi
+restapi.py:11: [C0304(missing-final-newline), ] Final newline missing
+restapi.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+restapi.py:6: [C0116(missing-function-docstring), hello] Missing function or method docstring
+
+-----------------------------------
+Your code has been rated at 5.00/10
